@@ -29,8 +29,8 @@
 ---
 
 ### 🧰 Tech Toolbox
-- **Languages**: Python, Kotlin/Java, TypeScript  
-- **Frameworks**: Django, FastAPI, Spring Boot, Angular, React  
+- **Languages**: Python, Kotlin/Java, C#, TypeScript  
+- **Frameworks**: Django, FastAPI, .NET, Spring Boot, Angular, React  
 - **ML/DL**: PyTorch, Tensorflow, Scikit-learn, Pandas, NumPy  
 - **Databases**: PostgreSQL, MySQL  
 - **DevOps/Cloud**: Docker, GitHub/GitLab CI/CD, AWS, Azure DevOps  
