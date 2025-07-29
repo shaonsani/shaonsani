@@ -20,7 +20,7 @@
 - 🧑‍💻 **FAU Erlangen (2025–Present):** Student Assistant (Data Management) – Siemens Healthineers collaboration on data quality (FastAPI, Neo4j, Docker)  
 - 🧪 **Fraunhofer IISB (2024–2025):** Research Assistant – Web integration with in-house AI platforms  
 - 🗃️ **Softgate GmbH (2023–2024):** Software Developer – Document management system (Softgate-Archiv)  
-- 🛡️ **Siemens AG (2022–2023):** Backend Developer – Internal tooling for Defence (Django, Python)  
+- 🛡️ **Siemens AG (2022–2023):** Python Developer – Internal tooling for Defence (Django, Python, Css, Boostrap, Ajax)  
 - 💻 **GroupM Germany (2022):** Student Engineer – ASP.NET, C#, Angular, DB design, requirements analysis  
 - 🔧 **ZS Solutions Ltd (2021–2022):** Backend Developer – Python, Django, scalable web systems  
 - 🔁 **Divergent Tech Ltd (2020–2021):** Fullstack Engineer – REST APIs, Angular, Selenium RPA for Robi Axiata
